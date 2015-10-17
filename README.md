@@ -3,7 +3,7 @@ Nhóm 6:
       <br>20111187:	Nguyễn Xuân Cảnh
       <br>20102499:	Phạm Sơn Tùng
       <br>20091942:	Vũ Công Nguyên
-<br>Đề tài 3: 
+<br><br>Đề tài 3: 
 <br>1. Nhập ma trận xác suất chuyển cỡ n xn
 <br>2. Kiểm tra ma trận xác suất chuyển đúng hay chưa?
 <br>3. Nhập phân phối ban đầu
