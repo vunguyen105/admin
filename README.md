@@ -1,4 +1,4 @@
-Nhóm 6: 
+ Các mô hình ngẫu nhiên và ứng dụng - Nhóm 6.
       <br>20111686:	Nguyễn Duy Khánh
       <br>20111187:	Nguyễn Xuân Cảnh
       <br>20102499:	Phạm Sơn Tùng
